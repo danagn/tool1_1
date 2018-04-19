@@ -1,0 +1,28 @@
+1
+Probe Plane1 as Part alignment feature with 3 points using the stylus: Straight (L10-D5)
+
+5
+Probe Line1 as Part alignment feature with 2 points using the stylus: Straight (L10-D5)
+
+8
+Probe Point6 as Part alignment feature with 1 points using the stylus: Straight (L10-D5)
+
+Inspect a Position tolerance
+
+11
+Probe Plane2 as Datum feature with 4 points using the stylus: Straight (L10-D5)
+
+16
+Probe Plane3 as Datum feature with 4 points using the stylus: Straight (L10-D5)
+
+21
+Probe Cylinder1 as Inspection feature with 7 points using the stylus: Straight (L10-D5)
+
+Inspect a Perpendicularity tolerance
+
+30
+Probe Plane3 as Datum feature with 7 points using the stylus: Straight (L10-D5)
+
+31
+Probe Plane5 as Inspection feature with 4 points using the stylus: Straight (L10-D5)
+

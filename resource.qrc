@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icons/angularity.png</file>
+        <file>icons/circularity.png</file>
+        <file>icons/concentricity.png</file>
+        <file>icons/cylindricity.png</file>
+        <file>icons/flatness.png</file>
+        <file>icons/parallelism.png</file>
+        <file>icons/perpendicularity.png</file>
+        <file>icons/position.png</file>
+        <file>icons/profile line.png</file>
+        <file>icons/profile surface.png</file>
+        <file>icons/symmetry.png</file>
+        <file>icons/straightness2.png</file>
+    </qresource>
+</RCC>
